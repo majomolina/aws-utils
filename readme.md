@@ -21,3 +21,5 @@ AWS_COGNITO_CLIENT_SECRET
 AWS_COGNITO_USER_POOL_ID
 
 The user IAM must have the proper permission to use AWS Cognito / AWS S3
+
+2. Import the utilities in your main project (eg. Nextjs project, express Rest API)
