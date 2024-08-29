@@ -5,10 +5,10 @@
 1. Create an .env file and include the following variables with the respective IAM credentials.
 
 
-AWS_REGION
-AWS_SECRET_ACCESS_KEY
-AWS_ACCESS_KEY_ID
-
+    a. AWS_REGION 
+    b. AWS_SECRET_ACCESS_KEY
+    c. AWS_ACCESS_KEY_ID
+    
 To use AWS S3:
 
 BUCKET_NAME
